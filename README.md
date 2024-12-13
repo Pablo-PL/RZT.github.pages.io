@@ -25,7 +25,7 @@ Możesz korzystać z tych materiałów wyłącznie __do użytku własnego, nieko
 - Jakiejkolwiek formy dystrybucji plików, które zmieniają oryginalną zawartość lub wykorzystywania jej w celach komercyjnych.
 
 ## Kontakt
-Jeśli masz pytania dotyczące tego repozytorium lub chcesz uzyskać zgodę na inne formy wykorzystania materiałów, skontaktuj się z autorem projektu poprzez [Issues na GitHubie](https://www.github.com/Pablo-PL/RZT/issues) lub wysyłając wiadomość bezpośrednią.
+Jeśli masz pytania dotyczące tego repozytorium lub chcesz uzyskać zgodę na inne formy wykorzystania materiałów, skontaktuj się z autorem projektu poprzez [Issues na GitHubie](https://github.com/Pablo-PL/RZT.github.pages.io/issues) lub wysyłając wiadomość bezpośrednią.
 
 ---
 
